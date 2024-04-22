@@ -5,7 +5,7 @@
 ![Breninho23 GitHub stats](https://github-readme-stats.vercel.app/api?username=Breninho23&show_icons=true&theme=dracula&count_private=true)
 
 
-## Tecnologias com as quais trabalho ou ja trabalhei
+## Tecnologias e ferramentas com as quais trabalho ou ja trabalhei
 
 <div style="display: inline_block">
 
